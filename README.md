@@ -23,9 +23,10 @@ Berhasil sampai ke kampus dengan selamat
 
 ## Assets
 Sound :
-https://assetstore.unity.com/?category=audio&free=true&orderBy=1
+- https://assetstore.unity.com/?category=audio&free=true&orderBy=1
+- http://soundimage.org/
 
 Textures :
-https://assetstore.unity.com/?category=2d&free=true&orderBy=1
-
-Buat sendiri jika memungkinkan
+- https://assetstore.unity.com/?category=2d&free=true&orderBy=1
+- https://opengameart.org/
+- Buat sendiri jika memungkinkan
